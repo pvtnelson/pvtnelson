@@ -43,7 +43,7 @@ profile:
 expertise:
   cloud_platforms: ["Azure", "Nutanix"]
   infrastructure: ["Terraform", "Bicep", "ARM Templates"]
-  automation: ["PowerShell", "Terrafomr", "Python", "Bash"]
+  automation: ["PowerShell", "Python", "Bash"]
   containers: ["Docker", "Kubernetes", "AKS"]
   ci_cd: ["Azure DevOps", "GitHub Actions"]
   
@@ -153,11 +153,6 @@ current_focus:
 
 </div>
 
-## 💡 Fun Fact
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
 
 ## 📬 Let's Connect!
 
