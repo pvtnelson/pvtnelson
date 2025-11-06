@@ -39,15 +39,15 @@
 profile:
   name: "Niels"
   location: "Netherlands 🇳🇱"
-  role: "IT Cloud Engineer"
+  role: "Cloud Engineer"
   website: "pvtnelson.nl"
   
 expertise:
-  cloud_platforms: ["Azure", "AWS", "GCP"]
+  cloud_platforms: ["Azure", "Nutanix"]
   infrastructure: ["Terraform", "Bicep", "ARM Templates"]
-  automation: ["PowerShell", "Python", "Bash"]
-  containers: ["Docker", "Kubernetes", "AKS", "EKS"]
-  ci_cd: ["Azure DevOps", "GitHub Actions", "GitLab CI"]
+  automation: ["PowerShell", "Terrafomr", "Python", "Bash"]
+  containers: ["Docker", "Kubernetes", "AKS"]
+  ci_cd: ["Azure DevOps", "GitHub Actions"]
   
 current_focus:
   - "Cloud Native Architecture"
@@ -140,31 +140,6 @@ current_focus:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pvtnelson&theme=react-dark&hide_border=true&bg_color=0D1117&color=00A7E1&line=00A7E1&point=FF6B6B" alt="Contribution Graph"/>
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-  
-  ### Infrastructure as Code
-  <a href="https://github.com/pvtnelson/azure-terraform-modules">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtnelson&repo=azure-terraform-modules&theme=react&hide_border=true&bg_color=0D1117&title_color=00A7E1&icon_color=00A7E1" />
-  </a>
-  
-  ### Kubernetes Automation
-  <a href="https://github.com/pvtnelson/k8s-gitops">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtnelson&repo=k8s-gitops&theme=react&hide_border=true&bg_color=0D1117&title_color=00A7E1&icon_color=00A7E1" />
-  </a>
-  
-  ### Cloud Cost Optimization
-  <a href="https://github.com/pvtnelson/cloud-cost-optimizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtnelson&repo=cloud-cost-optimizer&theme=react&hide_border=true&bg_color=0D1117&title_color=00A7E1&icon_color=00A7E1" />
-  </a>
-  
-  ### DevOps Toolchain
-  <a href="https://github.com/pvtnelson/devops-pipeline-templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pvtnelson&repo=devops-pipeline-templates&theme=react&hide_border=true&bg_color=0D1117&title_color=00A7E1&icon_color=00A7E1" />
-  </a>
-</div>
-
 ## 💼 Services & Expertise
 
 <div align="center">
@@ -181,15 +156,6 @@ current_focus:
 | **🤖 Automation** | PowerShell, Python, and Terraform automation for cloud operations |
 
 </div>
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- 🔧 [Optimizing Azure Costs with Terraform and Policy as Code](https://pvtnelson.nl/blog)
-- 🐳 [Zero-Downtime Deployments with Kubernetes and GitOps](https://pvtnelson.nl/blog)
-- ☁️ [Multi-Cloud Strategy: When and How to Implement](https://pvtnelson.nl/blog)
-- 🔐 [Securing Your Cloud Infrastructure: Best Practices 2025](https://pvtnelson.nl/blog)
-<!-- BLOG-POST-LIST:END -->
 
 ## 💡 Fun Fact
 
