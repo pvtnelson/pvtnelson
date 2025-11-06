@@ -33,8 +33,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Cloud Architecture" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 ```yaml
 profile:
   name: "Niels"
@@ -127,8 +125,6 @@ current_focus:
   <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20Azure%20Solutions%20Architect%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Solutions Architect"/>
   
   <img src="https://img.shields.io/badge/Microsoft%20Certified%3A%20DevOps%20Engineer%20Expert-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure DevOps Engineer"/>
-  
-  <img src="https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Solutions Architect"/>
   
   <img src="https://img.shields.io/badge/HashiCorp%20Certified%3A%20Terraform%20Associate-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform Associate"/>
   
