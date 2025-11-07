@@ -4,7 +4,7 @@
   
   <!-- Animated typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A7E1&center=true&vCenter=true&random=false&width=600&lines=IT+Cloud+Engineer;Infrastructure+as+Code+Expert;Azure+%26+AWS+Specialist;DevOps+Enthusiast;Automation+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00A7E1&center=true&vCenter=true&random=false&width=600&lines=IT+Cloud+Engineer;Infrastructure+as+Code+Expert;Azure+%26+Nutanix+Specialist;DevOps+Enthusiast;Automation+Architect" alt="Typing SVG" />
   </a>
 
   <!-- Social badges -->
@@ -164,7 +164,7 @@ current_focus:
   Whether you need cloud migration, DevOps implementation, or infrastructure automation, I'm here to help!
   
   **🌍 Website:** [pvtnelson.nl](https://pvtnelson.nl)  
-  **📧 Email:** [contact@pvtnelson.nl](mailto:info@pvtnelson.nl)  
+  **📧 Email:** [info@pvtnelson.nl](mailto:info@pvtnelson.nl)  
   **💼 LinkedIn:** [Connect with me](https://linkedin.com/in/niels-pvt)  
   
   <br>
