@@ -192,8 +192,11 @@ I maintain a production-grade homelab environment for continuous learning and ex
 ### 🎯 TryHackMe Profile
 
 <a href="https://tryhackme.com/p/pvtnelson" target="_blank">
-  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3795559" alt="TryHackMe Badge"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/pvtnelson.png" alt="TryHackMe Badge"/>
 </a>
+
+<!-- Alternative badge URL if above doesn't work -->
+<!-- <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3795559" alt="TryHackMe Badge"/> -->
 
 </div>
 
