@@ -189,6 +189,12 @@ I maintain a production-grade homelab environment for continuous learning and ex
 - Self-hosted Bitwarden for secure credential management
 - Active participation in TryHackMe for continuous security learning
 
+### 🎯 TryHackMe Profile
+
+<a href="https://tryhackme.com/p/pvtnelson" target="_blank">
+  <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3795559" alt="TryHackMe Badge"/>
+</a>
+
 </div>
 
 ## 📊 GitHub Analytics
