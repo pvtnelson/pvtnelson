@@ -9,8 +9,9 @@ I believe that true engineering isn't just about knowing how to use a tool, but 
 ---
 
 ### 🚀 What I'm currently working on
-* 🏗️ **[Project Zephyrus](https://github.com/pvtnelson/zephyrus) (Public):** Building an event-driven, decoupled microservices architecture demonstrating IaC, Kubernetes autoscaling (KEDA), and GitOps CI/CD. (soon to start)
-* 🤖 **[Project ai-skills](https://github.com/pvtnelson/ai-skills) (Public):** A framework for building, managing, and evolving custom Claude Code skills — reusable slash commands that extend Claude's capabilities with domain-specific workflows
+* 🤖 **[Project ai-skills](https://github.com/pvtnelson/ai-skills) (Public):** A framework for building, managing, and evolving custom Claude Code skills — reusable slash commands that extend Claude's capabilities with domain-specific workflows (active)
+* 🖥️ **[Project lab](https://github.com/pvtnelson/lab) (Public):** My journey with Kubecraft, Architecting and maintaining a kubernetes cluster on Rancher Desktop with the goal to learn kubernetes and get my CKA, eventually migrating my current homelab to Talos (active)
+* 🏗️ **[Project Zephyrus](https://github.com/pvtnelson/zephyrus) (Public):** Building an event-driven, decoupled microservices architecture demonstrating IaC, Kubernetes autoscaling (KEDA), and GitOps CI/CD. (soon to start) 
 * 🖥️ **Advanced Homelab (Private):** Architecting and maintaining a local bare-metal environment to safely experiment with virtualization, advanced networking, and self-hosted infrastructure (bridging the gap between hardware and cloud).
 * 🤖 **AI & Automation Lab (Private):** Experimenting with LLMs, RAG (Retrieval-Augmented Generation) systems, and API-driven AI tools to optimize engineering workflows and data processing.
 * 📚 **Currently Learning:** Deep-diving into Terraform (state management), Python for DevOps automation, and building zero-downtime pipelines.
