@@ -15,7 +15,7 @@ I believe that true engineering isn't just about knowing how to use a tool, but 
 * 🖥️ **Advanced Homelab (Private):** Architecting and maintaining a local bare-metal environment to safely experiment with virtualization, advanced networking, and self-hosted infrastructure (bridging the gap between hardware and cloud).
 * 🤖 **AI & Automation Lab (Private):** Experimenting with LLMs, RAG (Retrieval-Augmented Generation) systems, and API-driven AI tools to optimize engineering workflows and data processing.
 * 📚 **Currently Learning:** Deep-diving into Terraform (state management), Python for DevOps automation, and building zero-downtime pipelines.
-* 🎯 **Current Goal:** Transitioning into a Medior/Senior Platform/DevOps Engineer role within the Dutch enterprise or scale-up market by Q3 2026.
+* 🎯 **Current Goal:** Rebuilding my homelab to a homelab as code with k3s and flux using GitOps. 
 
 ---
 
